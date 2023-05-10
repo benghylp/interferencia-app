@@ -20,8 +20,8 @@ st.set_page_config(
 st.sidebar.success("Evolutivo de Interferencia")
 
 # Link to css file
-with open('css/style.css')as f:
-    st.markdown(f'<style>{f.read()}</style>', unsafe_allow_html = True)
+#with open('css/style.css')as f:
+#    st.markdown(f'<style>{f.read()}</style>', unsafe_allow_html = True)
 
 
 #Funciones
