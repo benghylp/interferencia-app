@@ -3,9 +3,7 @@ import numpy as np
 import streamlit as st  # data web app development
 from PIL import Image
 from pathlib import Path
-from plotly.subplots import make_subplots
 import plotly.graph_objs as go
-import streamlit.components.v1 as components
 import os
 import plotly.express as px  # interactive charts
 
