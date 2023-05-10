@@ -12,8 +12,7 @@ import plotly.express as px  # interactive charts
 
 
 dir_now = Path.cwd() 
-logo_file = dir_now / 'css' / 'peru.png'
-im = Image.open(str(logo_file))
+
 st.set_page_config(
     page_title="Dashboard de Interferencia Peru",
     page_icon=im,
