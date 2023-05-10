@@ -9,3 +9,5 @@ openpyxl==3.0.9
 path==16.0.0
 matplotlib==3.6.3
 glob2==0.7
+vega_datasets==0.9.0
+altair==4.1.0
