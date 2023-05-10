@@ -15,7 +15,6 @@ dir_now = Path.cwd()
 
 st.set_page_config(
     page_title="Dashboard de Interferencia Peru",
-    page_icon=im,
     layout="wide")
 
 st.sidebar.success("Evolutivo de Interferencia")
